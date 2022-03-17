@@ -15,7 +15,39 @@
   "asset": "FIRSTQDROP",
   "img_url": "https://i.imgur.com/lGuleKR.png",
   "series": 1
+},
+ "GMONEYPEPE": {
+  "artists": [{
+   "name": "GMONEY",
+   "webpage": "http://pepeproject.com"
+  }],
+  "asset": "GMONEYPEPE",
+  "img_url": "https://i.imgur.com//zwFvzH5.png",
+  "series": 1
+ },
+ "GQPEPE": {
+  "artists": [{
+   "name": "GMONEY",
+   "webpage": "https://pepeproject.com"
+  }],
+  "asset": "GQPEPE",
+  "img_url": "https://i.imgur.com/lICBrJ2.png",
+  "series": 1
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 "FIRSTMARKER": "https://i.imgur.com/M2VUhCS.png",
  "FIRSTQDROP": "https://i.imgur.com/lGuleKR.png",
  "GMONEYPEPE": "https://i.imgur.com//zwFvzH5.png",
