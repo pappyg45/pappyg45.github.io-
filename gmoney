@@ -1,0 +1,46 @@
+{
+    "asset": "GMONEY",
+	"name": "GMONEY",
+    "description": "Bitcoin is Digital 1776",
+    "owner": {
+        "name": "GMONEY",
+        "title": "GMONEY"
+    },
+    "contacts": [{
+      "type": "address",
+      "data": "26895 Aliso Creek Road Suite B111, Aliso Viejo, CA 92656"
+    },{
+      "type": "email",
+      "data": "gmoney@oplanbtc.com"
+    },{
+      "type": "url",
+      "data": "endthebankers.com"
+    },{
+      "type": "url",
+      "data": "gamesoftrump.com"
+    },{
+      "type": "url",
+      "data": "rugpullradio.com"
+    },{
+      "type": "url",
+      "data": "pepeproject.com"
+    }],
+    "social": [{
+        "type": "github",
+        "data": "https://github.com/pappyg45"
+    },{
+        "type": "twitter",
+        "data": "https://twitter.com/gmoneypepe"
+    },{
+        "type": "telegram",
+        "data": "https://t.me/pappyG45"
+	}],
+    "images": [{
+        "type": "icon",
+        "size": "48x48",
+        "data": "https://3mbgcq3mlup7m3532wy5nibueljh6hosvwvzb3yutyyjbtum4vnq.arweave.net/2wJhQ2xdH_Zvu9Wx1qA0ItJ_HdKtq5DvFJ4wkM6M5Vs/sotjn7_thumb.png"
+    },{
+        "type": "large",
+        "data": "https://fubamqnebyi2sibezxwb4gxydonkgpeb7qdy36z5g2r72lukgapq.arweave.net/LQIGQaQOEakgJM3sHhr4G5qjPIH8B437PTaj_S6KMB8/sotjn7_image.png"
+    }]
+}
